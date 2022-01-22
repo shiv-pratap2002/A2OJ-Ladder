@@ -6,7 +6,7 @@
 |<ul><li>- [ ] Done</li></ul>|1|[Wine trading in Gergovia](http://www.spoj.com/problems/GERGOVIA/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|2|[All in All](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1281)|UVA|||1|
 |<ul><li>- [ ] Done</li></ul>|3|[Help the soldier](http://www.spoj.com/problems/SOLDIER/)|SPOJ|||1|
-|<ul><li>- [ ] Done</li></ul>|4|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces||Codeforces Round #157 (Div. 1) & Codeforces Round #157 (Div. 2)|1|
+|<ul><li>- [O] Done</li></ul>|4|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces||Codeforces Round #157 (Div. 1) & Codeforces Round #157 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|5|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces||Codeforces Round #143 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|6|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces||Codeforces Round #142 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|7|[Twins](http://codeforces.com/problemset/problem/160/A)|Codeforces||Codeforces Round #111 (Div. 2)|1|
